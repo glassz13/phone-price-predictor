@@ -103,16 +103,16 @@ subsample:        0.8
 ## Visualizations
 
 **Model Progression**
-![model_comparison](outputs/model_comparison.png)
+![model_comparison](insights/model_comparison.png)
 
 **XGBoost Feature Importance**
-![feature_importance](outputs/feature_importance.png)
+![feature_importance](insights/feature_importance.png)
 
 **Actual vs Predicted**
-![actual_vs_predicted](outputs/actual_vs_predicted.png)
+![actual_vs_predicted](insights/actual_vs_predicted.png)
 
 **Residual Analysis**
-![residuals](outputs/residuals.png)
+![residuals](insights/residuals.png)
 
 ---
 
@@ -158,4 +158,5 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
+
 ```
